@@ -23,5 +23,5 @@
             "Ornicar\\ApcBundle": ""
         }
     },
-    "target-dir": "evoucher/ApcBundle"
+    "target-dir": "Ornicar/ApcBundle"
 }
